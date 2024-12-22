@@ -8,7 +8,6 @@ public class FirstspringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstspringbootApplication.class, args);
-		System.out.println("Hello World!");
 	}
 
 }
